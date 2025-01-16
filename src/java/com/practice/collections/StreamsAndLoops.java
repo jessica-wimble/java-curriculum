@@ -1,6 +1,6 @@
 package com.practice.collections;
 
-import com.practice.collections.data.Dog;
+import com.practice.models.Dog;
 
 import java.util.List;
 

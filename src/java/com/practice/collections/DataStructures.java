@@ -1,6 +1,6 @@
 package com.practice.collections;
 
-import com.practice.collections.data.Dog;
+import com.practice.models.Dog;
 
 /**
  * 1. Create a new Dog array (Dog[]) containing all of the dogs below
