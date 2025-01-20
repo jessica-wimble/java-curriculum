@@ -19,10 +19,11 @@ public class Cat {
     public String getBreed() {
         return breed;
     }
-
-
     public int getAge() {
         return age;
     }
 
+    public void setAge(int age) {
+        this.age = age;
+    }
 }

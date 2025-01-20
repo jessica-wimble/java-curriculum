@@ -13,17 +13,17 @@ package com.practice;
  * ("Hello"," ", "how"," ", "are", " ", "you", "?") then print out the whole string
  *
  * create two Strings
- * String test1 = "Hello"
- * String test2 = new String("Hello")
+ * String test1 = "Hello";
+ * String test2 = new String("Hello");
+ * String test3 = "Hello";
  *
  * what is the value of test1 == test2 ? Why is this?
+ * what is the value of test1 == test3 ? Why is this?
  * what is the value of test1.equals(test2) ? Why is this?
  *
  */
 public class Strings {
 
     public static void main(String[] args){
-
-
     }
 }
