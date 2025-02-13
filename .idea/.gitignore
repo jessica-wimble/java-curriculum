@@ -7,15 +7,9 @@
 /dataSources/
 /dataSources.local.xml
 
-./uiDesigner.xml
-./misc.xml
-./modules.xml
-../out/*
-/out/*
-/out/production/
+/out/
 
 /.idea/
 /vcs.xml
 
 java-curriculum.iml
-out/*
